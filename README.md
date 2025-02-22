@@ -2,13 +2,6 @@
 <img src=https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!&textBg=false&section=header&reversal=false>
 </p>
 
-
-<p align='center'>
-    <Strong>✉️Contact✉️</Strong>
-    <br><br>
-    <a href='https://instagram.com/hyunho1302' target='_blank'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'></a>
-</p>
-
 <h3 align='center'>
     <Strong>🧑‍💻About me🧑‍💻</Strong>
 </h3>

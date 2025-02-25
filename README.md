@@ -23,7 +23,7 @@ Device: Apple MacBook Air 13" (M3, 2024)
     <Strong>🤔Interests🤔</Strong>
 </h3>
 <p align='center'>
-💻Electrical Engineering (EE)💻
+💻Electronic & Electrical Engineering (EE)💻
 <br>
 ⨋Functional Analysis, Geometry⨋
 </p>

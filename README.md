@@ -23,7 +23,7 @@ Device: Apple MacBook Air 13" (M3, 2024)
     <Strong>🤔Interests🤔</Strong>
 </h3>
 <p align='center'>
-💻Theories on CPU Architectures💻
+💻Electrical Engineering (EE)💻
 <br>
 ⨋Functional Analysis, Geometry⨋
 </p>

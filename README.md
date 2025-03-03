@@ -25,7 +25,7 @@ Device: Apple MacBook Air 13" (M3, 2024)
 <p align='center'>
 💻Electronic & Electrical Engineering (EE)💻
 <br>
-⨋Functional Analysis, Geometry⨋
+⨋Topology, Functional Analysis⨋
 </p>
 
 <h3 align='center'>

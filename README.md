@@ -23,9 +23,7 @@ Device: Apple MacBook Air 13" (M3, 2024)
     <Strong>🤔Interests🤔</Strong>
 </h3>
 <p align='center'>
-💻Electronic & Electrical Engineering (EE)💻
-<br>
-⨋Topology, Functional Analysis⨋
+⨋Topology(low-dimensional manifolds), Differential Geometry, Algebra⨋
 </p>
 
 <h3 align='center'>

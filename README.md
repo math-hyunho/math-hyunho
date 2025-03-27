@@ -3,31 +3,21 @@
 </p>
 
 <h3 align='center'>
-    <Strong>🧑‍💻About me🧑‍💻</Strong>
+    <Strong>🧑‍💻About Me🧑‍💻</Strong>
 </h3>
 <p align='center'>
-Undergrad. Student in Mathematics, at Konkuk Univ.
+Undergraduate, Department of Mathematics, Konkuk University, Seoul, Korea<br/>E-mail: zeromemory@konkuk.ac.kr<br/>Blog: https://0mem.github.io
 </p>
 
 <h3 align='center'>
-    <Strong>🖥About My Device🖥</Strong>
+    <Strong>🤔Interest🤔</Strong>
 </h3>
 <p align='center'>
-Device: Apple MacBook Air 13" (M3, 2024)
-<br> Operating Systems I use (Including VM):
-<br><img src='https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white'>&nbsp
-<img src='https://img.shields.io/badge/Gentoo Linux-54487A?style=for-the-badge&logo=Gentoo&logoColor=white'>
+Algebraic Geometry, Topology
 </p>
 
 <h3 align='center'>
-    <Strong>🤔Interests🤔</Strong>
-</h3>
-<p align='center'>
-⨋Topology(low-dimensional manifolds), Differential Geometry, Algebra⨋
-</p>
-
-<h3 align='center'>
-    <Strong>📚Specs📚</Strong>
+    <Strong>📚Coding Specs📚</Strong>
 </h3>
 <p align='center'>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=rounded-square&logo=C&logoColor=white"/></a>&nbsp

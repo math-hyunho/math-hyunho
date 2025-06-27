@@ -6,7 +6,7 @@
     <Strong>🧑‍💻About Me🧑‍💻</Strong>
 </h3>
 <p align='center'>
-1st Year, Undergraduate, Department of Mathematics, Konkuk University, Seoul, Korea<br/>E-mail: zeromemory@konkuk.ac.kr<br/>Blog: https://0mem.github.io
+1st Year, Undergraduate, Department of Mathematics, Konkuk University, Seoul, Korea<br/>E-mail: zeromemory@konkuk.ac.kr<br/>Blog: https://math-hyunho.github.io
 </p>
 
 <h3 align='center'>
